@@ -1,0 +1,26 @@
+.elementor-1591 .elementor-element.elementor-element-8c8c393:not(.elementor-motion-effects-element-type-background), .elementor-1591 .elementor-element.elementor-element-8c8c393 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FEFDFD;}.elementor-1591 .elementor-element.elementor-element-8c8c393, .elementor-1591 .elementor-element.elementor-element-8c8c393 > .elementor-background-overlay{border-radius:20px 20px 20px 20px;}.elementor-1591 .elementor-element.elementor-element-8c8c393{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 20px 20px 20px;}.elementor-1591 .elementor-element.elementor-element-8c8c393 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-1591 .elementor-element.elementor-element-ebda4c6 > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:5% 10% 5% 10%;}.elementor-1591 .elementor-element.elementor-element-36f0819{width:auto;max-width:auto;bottom:50px;z-index:2;}body:not(.rtl) .elementor-1591 .elementor-element.elementor-element-36f0819{right:-123.9px;}body.rtl .elementor-1591 .elementor-element.elementor-element-36f0819{left:-123.9px;}.elementor-1591 .elementor-element.elementor-element-0604be4 img{height:100%;object-fit:cover;object-position:center center;}.elementor-1591 .elementor-element.elementor-element-0604be4{width:var( --container-widget-width, 228px );max-width:228px;--container-widget-width:228px;--container-widget-flex-grow:0;bottom:0px;}body:not(.rtl) .elementor-1591 .elementor-element.elementor-element-0604be4{left:-162px;}body.rtl .elementor-1591 .elementor-element.elementor-element-0604be4{right:-162px;}.elementor-1591 .elementor-element.elementor-element-ed97a15{text-align:center;z-index:1;}.elementor-1591 .elementor-element.elementor-element-ed97a15 .elementor-heading-title{color:#0DAF2B;font-family:"Poppins", Sans-serif;font-size:2em;font-weight:600;}.elementor-1591 .elementor-element.elementor-element-7075f81{text-align:center;z-index:1;}.elementor-1591 .elementor-element.elementor-element-7075f81 .elementor-heading-title{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-size:var( --e-global-typography-text-font-size );font-weight:var( --e-global-typography-text-font-weight );}.elementor-1591 .elementor-element.elementor-element-923c317{z-index:1;}#elementor-popup-modal-1591 .dialog-message{width:640px;height:auto;}#elementor-popup-modal-1591{justify-content:flex-end;align-items:flex-end;pointer-events:all;background-color:rgba(0,0,0,.8);}#elementor-popup-modal-1591 .dialog-close-button{display:flex;top:-3%;font-size:21px;}#elementor-popup-modal-1591 .dialog-widget-content{background-color:#02010100;box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}body:not(.rtl) #elementor-popup-modal-1591 .dialog-close-button{right:100%;}body.rtl #elementor-popup-modal-1591 .dialog-close-button{left:100%;}@media(max-width:1024px){.elementor-1591 .elementor-element.elementor-element-36f0819{bottom:-38px;}.elementor-1591 .elementor-element.elementor-element-7075f81 .elementor-heading-title{font-size:var( --e-global-typography-text-font-size );}}@media(max-width:767px){.elementor-1591 .elementor-element.elementor-element-36f0819{bottom:-66px;}.elementor-1591 .elementor-element.elementor-element-7075f81 .elementor-heading-title{font-size:var( --e-global-typography-text-font-size );}}/* Start custom CSS for html, class: .elementor-element-923c317 */form .box-primary label {
+    display: none;
+}
+form .box-primary input {
+    margin-bottom: 5px;;
+}
+form .box-primary input[type="submit"] {
+    color: #fff;
+    background: #0DAF2B;
+    border-color: #0DAF2B;
+    font-size: 17px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    width: 100%;
+}
+form .box-primary input[type="submit"]:hover {
+    color: #fff;
+    border-color: #EC6E00;
+}
+
+form .callout, form .box-title{
+    display: none;
+}
+.elementor-popup-modal .dialog-message {
+    overflow: visible;
+}/* End custom CSS */
